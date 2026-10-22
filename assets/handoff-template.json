@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "assessment_id": "PSA-YYYYMMDD-example",
+  "project_id": "example-project",
+  "assessment_date": "YYYY-MM-DD",
+  "skill_name": "project-sec-advisor",
+  "skill_version": "1.0.3",
+  "report_path": null,
+  "scope": {
+    "included": [],
+    "excluded": [],
+    "source_ref": null,
+    "limitations": []
+  },
+  "findings": [],
+  "unverified_items": [],
+  "cross_domain_referrals": [],
+  "recommended_follow_up": [],
+  "evidence_references": []
+}
