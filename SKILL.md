@@ -2,7 +2,7 @@
 name: project-sec-advisor
 description: 為軟體專案規劃資安評估：盤點實際技術與信任邊界、查核適用標準、研究免費檢測工具，產出有證據的測試計畫、Markdown 報告與跨 Agent 交接資料。用於使用者要求資安評估規劃或檢測工具選型時。
 metadata:
-  version: "1.0.3"
+  version: "1.0.4"
   display_name: "專案資安"
 ---
 
