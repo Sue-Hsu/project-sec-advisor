@@ -1,4 +1,4 @@
 interface:
   display_name: "專案資安"
-  short_description: "跨技術專案資安評估、免費工具研究與測試計畫"
+  short_description: "跨技術專案資安評估、增量複查與測試計畫"
   default_prompt: "使用 $project-sec-advisor 評估此專案的資安檢測需求並產生有依據的測試計畫。"
